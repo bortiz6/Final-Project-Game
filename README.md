@@ -8,4 +8,5 @@ The system requirements is that the operation systems is cross platform meaning 
 
 Game Structure: Start.py, Chapter1.py, Chapter2.py, Chapter3.py, Chapter4.py, Chapter5.py.
 
+By running the game you would have to download the files and having all the files are in the same folder. Open terminal then you would run the game by running it on python with the trinagle symbol on the top right corner of the app that you are using.
 
